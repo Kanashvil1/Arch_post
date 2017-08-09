@@ -1,0 +1,39 @@
+#after installing xfce4
+
+WIFI:
+	install NetworkManager, broadcom-wl(Arch wiki,yaourt), gnome-keyrings(?), wpa_supplicant(?)
+
+PROGRAMS:
+	1) BROWSERS: chromium, chrome, firefox, opera, tor
+	2) NETWORK-ANALYZING: wireshark, zenmap(nmap)
+	3) REMOTE-DESKTOP: teamviewer
+	4) MESSAGING: telegram, viber
+	5) TEXT-EDITORS: sublime-text, geany, medit
+	6) OFFICE: evince(document viewer), libreoffice-fresh
+	7) LAUNCHER: synapse or albert
+	8) SCREEN-LOCKER: lightdm, lightdm-gtk-greeter-settings
+	9) GRAPHICS: GIMP, inkscspe, gthumb, shutter or xfce4-screenshooter
+	10) MULTIMEDIA: vnc, easytag, pulseaudio(?), deadbeef.
+		   * Multimedia codecs:
+	11) STEGANOGRAPHY: steghide
+	12) USB: udisks2, udiskie
+	13) ARCHIVE: unzip, unrar, gzip, zip, xarchive
+	14) WEB-SERVER: apache
+	15) FILE-TRANSFER: ssh
+	16) TORRENT: qbittorrent
+	17) VIDEO-DOWNLOADER: 4kvideodownloader(AUR)
+	18) ANALYZER: htop
+	19) HARDWARE-INFO: dmidecode, screenfetch
+	20) FIREWALL: ufw
+	21) DOWNLOAD-MANAGER: wget
+	22) Others: xfce4-whiskermenu-plugin, xdg-user-dirs(user directories), xxkb(keyboard layout switcher), git
+
+
+	
+
+
+
+install yaourt for AUR.
+
+PRINTING:
+	
