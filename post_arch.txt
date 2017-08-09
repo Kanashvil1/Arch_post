@@ -11,7 +11,7 @@ PROGRAMS:
 	5) TEXT-EDITORS: sublime-text, geany, medit
 	6) OFFICE: evince(document viewer), libreoffice-fresh
 	7) LAUNCHER: synapse or albert
-	8) SCREEN-LOCKER: lightdm, lightdm-gtk(kde)-greeter-settings
+	8) SCREEN-LOCKER: lightdm, lightdm-gtk(kde)-greeter(-settings)
 	9) GRAPHICS: GIMP, inkscspe, gthumb, shutter or xfce4-screenshooter
 	10) MULTIMEDIA: vnc, easytag, pulseaudio(?), deadbeef.
 		   * Multimedia codecs:
