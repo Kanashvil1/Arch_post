@@ -17,7 +17,7 @@ PROGRAMS:
 		   * Multimedia codecs:
 	11) STEGANOGRAPHY: steghide
 	12) USB: udisks2, udiskie
-	13) ARCHIVE: unzip, unrar, gzip, zip, xarchive
+	13) ARCHIVE: unzip, unrar, gzip, zip, xarchive, thunar-archive-plugin(right click menu), pcmanfm
 	14) WEB-SERVER: apache
 	15) FILE-TRANSFER: ssh
 	16) TORRENT: qbittorrent
@@ -35,5 +35,5 @@ PROGRAMS:
 
 install yaourt for AUR.
 
-PRINTING:
+
 	
