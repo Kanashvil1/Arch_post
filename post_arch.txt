@@ -27,7 +27,7 @@ PROGRAMS:
 	20) FIREWALL: ufw
 	21) DOWNLOAD-MANAGER: wget
 	22) Others: xfce4-whiskermenu-plugin, xdg-user-dirs(user directories), xxkb(keyboard layout switcher), git
-
+	23) Nes emulator: fceux
 
 	
 
