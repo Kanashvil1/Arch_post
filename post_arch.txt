@@ -13,7 +13,7 @@ PROGRAMS:
 	7) LAUNCHER: synapse or albert
 	8) SCREEN-LOCKER: lightdm, lightdm-gtk(kde)-greeter(-settings)
 	9) GRAPHICS: GIMP, inkscspe, gthumb, shutter or xfce4-screenshooter
-	10) MULTIMEDIA: vnc, easytag, pulseaudio(?), deadbeef.
+	10) MULTIMEDIA: vnc, easytag, pulseaudio(?), deadbeef, qmmp (music player).
 		   * Multimedia codecs:
 	11) STEGANOGRAPHY: steghide
 	12) USB: udisks2, udiskie
